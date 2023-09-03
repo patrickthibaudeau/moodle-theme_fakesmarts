@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c8d46b1-6e27-4b0c-9be5-75509c91835b" name="Changes" comment="Added search for specific word in string" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../.." />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ISfEIZMaWBccoS21HOhrL83Vkm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "MOODLE__401__STABLE",
+    "last_opened_file_path": "Z:/home/patrick/fakesmarts/moodle/theme/fakesmarts",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\home\patrick\congress\html\theme\congress\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\patri\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c8d46b1-6e27-4b0c-9be5-75509c91835b" name="Changes" comment="" />
+      <created>1670179794346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670179794346</updated>
+      <workItem from="1670179797815" duration="227000" />
+      <workItem from="1670180098980" duration="5390000" />
+      <workItem from="1670185642279" duration="761000" />
+      <workItem from="1670204093226" duration="2139000" />
+      <workItem from="1670246014541" duration="44000" />
+      <workItem from="1670703670942" duration="1647000" />
+      <workItem from="1670771728239" duration="1261000" />
+      <workItem from="1671134721386" duration="632000" />
+      <workItem from="1671216289641" duration="86000" />
+      <workItem from="1673105387398" duration="92000" />
+      <workItem from="1673278154031" duration="673000" />
+      <workItem from="1673279359416" duration="599000" />
+      <workItem from="1673287545210" duration="34000" />
+      <workItem from="1673288713297" duration="899000" />
+      <workItem from="1673656442510" duration="13000" />
+      <workItem from="1673798783875" duration="1880000" />
+      <workItem from="1674096929986" duration="7000" />
+      <workItem from="1674096966731" duration="14000" />
+      <workItem from="1674225150795" duration="156000" />
+      <workItem from="1674739230558" duration="2070000" />
+      <workItem from="1675774624632" duration="7479000" />
+      <workItem from="1676757492867" duration="40000" />
+      <workItem from="1681086927320" duration="943000" />
+      <workItem from="1681259962744" duration="271000" />
+      <workItem from="1693776318329" duration="160000" />
+      <workItem from="1693776508134" duration="2318000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added code to remove site administration settings that will not be used by application">
+      <created>1670185020582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670185020582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added proper link for branding image">
+      <created>1670185770395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670185770395</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Sidebar collapsed by default. Removed more pages in settings">
+      <created>1670207287110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670207287110</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sidebar collapsed by default on frontpage.">
+      <created>1670246044928</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670246044928</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated navdrawer add item to include aborder bottom">
+      <created>1670773000999</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670773000999</updated>
+    </task>
+    <task id="LOCAL-00006" summary="AdminLTI css">
+      <created>1673105439269</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673105439269</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added new datatables">
+      <created>1673833192859</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673833192859</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Reverted to &quot;free&quot; version of DataTables">
+      <created>1674748076282</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674748076282</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added new version of datables (download) and new redirect if on dashboard">
+      <created>1675774852965</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675774852965</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added search for specific word in string">
+      <created>1675775309056</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675775309056</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Added code to remove site administration settings that will not be used by application" />
+    <MESSAGE value="Added proper link for branding image" />
+    <MESSAGE value="Sidebar collapsed by default. Removed more pages in settings" />
+    <MESSAGE value="Sidebar collapsed by default on frontpage." />
+    <MESSAGE value="Updated navdrawer add item to include aborder bottom" />
+    <MESSAGE value="AdminLTI css" />
+    <MESSAGE value="Added new datatables" />
+    <MESSAGE value="Reverted to &quot;free&quot; version of DataTables" />
+    <MESSAGE value="Added new version of datables (download) and new redirect if on dashboard" />
+    <MESSAGE value="Added search for specific word in string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added search for specific word in string" />
+  </component>
+</project>
