@@ -10,3 +10,11 @@
 .card{
     box-shadow: none !important;
 }
+
+.card-header{
+    background-color: #fff !important;
+}
+
+.card-footer{
+    background-color: #fff !important;
+}

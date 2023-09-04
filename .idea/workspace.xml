@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c8d46b1-6e27-4b0c-9be5-75509c91835b" name="Changes" comment="Added search for specific word in string">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="4c8d46b1-6e27-4b0c-9be5-75509c91835b" name="Changes" comment="Updated css. Removed box-shadow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/default.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/head.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/templates/head.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/adminlte.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adminlte.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/adminlte.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/adminlte.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/general.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +110,8 @@
       <workItem from="1693799920214" duration="608000" />
       <workItem from="1693800626416" duration="22000" />
       <workItem from="1693801344599" duration="19000" />
-      <workItem from="1693838123092" duration="470000" />
+      <workItem from="1693838123092" duration="645000" />
+      <workItem from="1693838907372" duration="374000" />
     </task>
     <task id="LOCAL-00001" summary="Added code to remove site administration settings that will not be used by application">
       <created>1670185020582</created>
@@ -182,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1675775309056</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updated css. Removed box-shadow">
+      <option name="closed" value="true" />
+      <created>1693838769984</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693838769984</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +247,7 @@
     <MESSAGE value="Reverted to &quot;free&quot; version of DataTables" />
     <MESSAGE value="Added new version of datables (download) and new redirect if on dashboard" />
     <MESSAGE value="Added search for specific word in string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added search for specific word in string" />
+    <MESSAGE value="Updated css. Removed box-shadow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated css. Removed box-shadow" />
   </component>
 </project>
