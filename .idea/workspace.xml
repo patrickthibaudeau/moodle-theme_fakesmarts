@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c8d46b1-6e27-4b0c-9be5-75509c91835b" name="Changes" comment="Added search for specific word in string" />
+    <list default="true" id="4c8d46b1-6e27-4b0c-9be5-75509c91835b" name="Changes" comment="Added search for specific word in string">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/default.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/head.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/templates/head.mustache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +109,8 @@
       <workItem from="1693779115714" duration="2174000" />
       <workItem from="1693799920214" duration="608000" />
       <workItem from="1693800626416" duration="22000" />
+      <workItem from="1693801344599" duration="19000" />
+      <workItem from="1693838123092" duration="470000" />
     </task>
     <task id="LOCAL-00001" summary="Added code to remove site administration settings that will not be used by application">
       <created>1670185020582</created>
