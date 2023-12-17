@@ -58,10 +58,6 @@ if ($PAGE->has_secondary_navigation()) {
     }
 }
 
-
-
-
-
 $templatecontext = [
     'sitename' => format_string($SITE->fullname, true, ['context' => context_course::instance(SITEID), "escape" => false]),
     'output' => $OUTPUT,
