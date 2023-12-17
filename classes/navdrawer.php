@@ -51,9 +51,11 @@ class navdrawer
         foreach (scandir($path) as $file) {
             if (is_dir($path . $file)) {
                 if ($file !== '.' && $file !== '..') {
+		    if ($file !== 'adminer') {
                     $folders[$i]['path'] = $path . $file;
                     $folders[$i]['plugin'] = 'local_' . $file;
                     $i++;
+                    }
                 }
             }
         }
